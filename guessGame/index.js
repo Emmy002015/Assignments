@@ -134,8 +134,7 @@ const numGuessGameStage1 = async (value, point) => {
   }
 
 }
-// added
-// starting point
+
 const numGuessGame = async () => {
 
   let point = 0
@@ -146,6 +145,7 @@ const numGuessGame = async () => {
     numGuessGameStage1((Math.round(Math.random() * 1)) + 1, point)
   } else {
     console.log('Enter your username')
+
   }
 }
 numGuessGame()
