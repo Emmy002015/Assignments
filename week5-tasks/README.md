@@ -25,7 +25,7 @@ This tasks contains the following:
 -Practical assessment of my use of flexbox and grid layout
 -A number guessing game which I developed using javascript where users play by guessing a computer generated number.
 
-##### Week4 task
+##### Week5 task
 This task containing a readMe containing brief description about the various tasks
 
 ## 🚀 About Me
